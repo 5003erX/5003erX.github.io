@@ -1,0 +1,36 @@
+body {
+  background-color: #030303;
+}
+
+h1, h3, p {
+  font-family: "Wingdings";
+}
+
+a {
+  color: black:
+}
+
+h1, h3, p {
+  color: white;
+  text-align: center;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+.scareLink{
+	display:block;
+	text-align:center;
+	color: white;
+}
+.funnyLink{
+	display:block;
+	text-align:center;
+	color: white;
+}
+.badtimeLink{
+	display:block;
+	text-align:center;
+	color: white;
+}
